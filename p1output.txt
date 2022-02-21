@@ -1,1 +1,6 @@
-
+ gcc -g p1original.c -lm;./a.out
+enter the values of x1,y1,x2,y2: 1
+1
+2
+2
+the distance between 1.000000,1.000000 and 2.000000,2.000000 will be 1.414214 
